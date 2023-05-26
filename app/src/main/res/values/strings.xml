@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multipurpose Calculator</string>
+    <string name="operand_1">Operand 1</string>
+    <string name="operand_2">Operand 2</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="result">Result</string>
+</resources>
